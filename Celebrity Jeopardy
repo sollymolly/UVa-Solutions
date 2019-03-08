@@ -1,0 +1,6 @@
+var = True
+while var:
+    try:
+        print(input())
+    except:
+        var = False
